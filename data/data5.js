@@ -14413,5 +14413,491 @@ module.exports = {
   "https://avalon.fun/GAME-4f9e34bc-4bb6-486a-a4a0-fa522b20a662": null,
   "https://avalon.fun/GAME-c1ed5596-f229-4477-9f8c-ddd961d8e17d": null,
   "https://avalon.fun/GAME-28a14a21-58d3-4c6f-a73f-2884de730f47": null,
-  "https://avalon.fun/GAME-c0b066fc-47cd-457b-b110-aef5c93b4513": null
+  "https://avalon.fun/GAME-c0b066fc-47cd-457b-b110-aef5c93b4513": null,
+  "https://avalon.fun/GAME-ea0c0c0c-29c1-43d5-81a7-69f3a720859c": null,
+  "https://avalon.fun/GAME-dcbf568d-d38b-4d72-8b50-26d746e3ca69": {
+    "names": [
+      "Reykon",
+      "goodstaff",
+      "shashist",
+      "anT127 iq",
+      "Кроша ",
+      "Salat",
+      "Inal",
+      "Kich"
+    ],
+    "roles": [
+      "percival",
+      "servant",
+      "assassin",
+      "servant",
+      "mordred",
+      "merlin",
+      "morgana",
+      "servant"
+    ],
+    "redWin": false,
+    "blueWin": true,
+    "byMissions": true,
+    "date": "22.12.2021"
+  },
+  "https://avalon.fun/GAME-cdf639f3-4f26-46c9-8478-3b69be79c788": {
+    "names": [
+      "Inal",
+      "Reykon",
+      "Konstadio",
+      "Nikitonga",
+      "PQNY",
+      "anT127 iq",
+      "Salat",
+      "Elpharran",
+      "shashist",
+      "goodstaff"
+    ],
+    "roles": [
+      "servant",
+      "morgana",
+      "merlin",
+      "percival",
+      "servant",
+      "mordred",
+      "servant",
+      "servant",
+      "oberon",
+      "assassin"
+    ],
+    "redWin": true,
+    "blueWin": false,
+    "merlinShot": false,
+    "byMissions": true,
+    "date": "22.12.2021"
+  },
+  "https://avalon.fun/GAME-47c0a836-52ea-4daf-a607-fe2e0b3358c9": {
+    "names": [
+      "Skeptic",
+      "худший синий",
+      "Кроша ",
+      "anT127 iq",
+      "",
+      "Артем",
+      "ватсон",
+      "XIII13"
+    ],
+    "roles": [
+      "servant",
+      "assassin",
+      "merlin",
+      "mordred",
+      "morgana",
+      "servant",
+      "percival",
+      "servant"
+    ],
+    "redWin": true,
+    "blueWin": false,
+    "merlinShot": true,
+    "byMissions": false,
+    "date": "22.12.2021"
+  },
+  "https://avalon.fun/GAME-fda96cc3-4c59-4a70-b4a5-f6ddaec2b1a2": {
+    "names": [
+      "Skeptic",
+      "Федос",
+      "худший синий",
+      "Nikitonga",
+      "Кроша ",
+      "rosti",
+      "anT127 iq",
+      ""
+    ],
+    "roles": [
+      "servant",
+      "morgana",
+      "servant",
+      "servant",
+      "merlin",
+      "assassin",
+      "percival",
+      "mordred"
+    ],
+    "redWin": false,
+    "blueWin": true,
+    "byMissions": true,
+    "date": "21.12.2021"
+  },
+  "https://avalon.fun/GAME-c7ca5f28-496b-4f44-8cf2-4cbc99d22be3": {
+    "names": [
+      "koenigzerg",
+      "худший синий",
+      "Reykon",
+      "",
+      "Nikitonga",
+      "Skeptic",
+      "Кроша ",
+      "anT127 iq"
+    ],
+    "roles": [
+      "mordred",
+      "percival",
+      "servant",
+      "servant",
+      "servant",
+      "morgana",
+      "merlin",
+      "assassin"
+    ],
+    "redWin": false,
+    "blueWin": true,
+    "byMissions": true,
+    "date": "21.12.2021"
+  },
+  "https://avalon.fun/GAME-06aeadd3-dd24-4aa7-b395-ae1dad360bc1": {
+    "names": [
+      "",
+      "rosti",
+      "Nikitonga",
+      "anT127 iq",
+      "Reykon",
+      "koenigzerg",
+      "худший синий",
+      "Skeptic"
+    ],
+    "roles": [
+      "mordred",
+      "merlin",
+      "percival",
+      "servant",
+      "servant",
+      "morgana",
+      "servant",
+      "assassin"
+    ],
+    "redWin": true,
+    "blueWin": false,
+    "merlinShot": false,
+    "byMissions": true,
+    "date": "21.12.2021"
+  },
+  "https://avalon.fun/GAME-fcae78fa-2947-4c16-a761-5c33d85c6d1b": {
+    "names": [
+      "Кроша ",
+      "",
+      "D_o_b_r_o",
+      "anT127 iq",
+      "худший синий",
+      "rosti",
+      "Skeptic",
+      "koenigzerg"
+    ],
+    "roles": [
+      "servant",
+      "servant",
+      "mordred",
+      "morgana",
+      "assassin",
+      "merlin",
+      "servant",
+      "percival"
+    ],
+    "redWin": false,
+    "blueWin": true,
+    "byMissions": true,
+    "date": "21.12.2021"
+  },
+  "https://avalon.fun/GAME-01c2bd4b-775e-4a2a-b03a-e2133f2deb0e": {
+    "names": [
+      "Кроша ",
+      "koenigzerg",
+      "Skeptic",
+      "rosti",
+      "худший синий",
+      "anT127 iq",
+      "D_o_b_r_o",
+      ""
+    ],
+    "roles": [
+      "servant",
+      "percival",
+      "merlin",
+      "assassin",
+      "servant",
+      "servant",
+      "morgana",
+      "mordred"
+    ],
+    "redWin": false,
+    "blueWin": true,
+    "byMissions": true,
+    "date": "21.12.2021"
+  },
+  "https://avalon.fun/GAME-64696c45-a1eb-4cf4-a0cf-63d55959c2f1": {
+    "names": [
+      "D_o_b_r_o",
+      "Кириса",
+      "anT127 iq",
+      "Кроша ",
+      "Skeptic",
+      "",
+      "Bipolar",
+      "XIII13"
+    ],
+    "roles": [
+      "assassin",
+      "mordred",
+      "servant",
+      "morgana",
+      "merlin",
+      "servant",
+      "servant",
+      "percival"
+    ],
+    "redWin": false,
+    "blueWin": true,
+    "byMissions": true,
+    "date": "20.12.2021"
+  },
+  "https://avalon.fun/GAME-bf2976a5-58b7-4e7a-9200-f06edd51bc11": {
+    "names": [
+      "D_o_b_r_o",
+      "Bipolar",
+      "Skeptic",
+      "Кириса",
+      "kitsune",
+      "Paloyan",
+      "anT127 iq",
+      "Inal"
+    ],
+    "roles": [
+      "percival",
+      "servant",
+      "servant",
+      "morgana",
+      "servant",
+      "mordred",
+      "assassin",
+      "merlin"
+    ],
+    "redWin": true,
+    "blueWin": false,
+    "merlinShot": false,
+    "byMissions": true,
+    "date": "20.12.2021"
+  },
+  "https://avalon.fun/GAME-312862aa-338a-4866-9b3c-56e3187fcb87": {
+    "names": [
+      "D_o_b_r_o",
+      "Bipolar",
+      "Кроша ",
+      "Skeptic",
+      "ватсон",
+      "anT127 iq",
+      "XIII13",
+      "Grinnnpich"
+    ],
+    "roles": [
+      "merlin",
+      "percival",
+      "assassin",
+      "mordred",
+      "servant",
+      "servant",
+      "servant",
+      "morgana"
+    ],
+    "redWin": true,
+    "blueWin": false,
+    "merlinShot": true,
+    "byMissions": false,
+    "date": "20.12.2021"
+  },
+  "https://avalon.fun/GAME-8d917cf8-6ae3-413a-be92-192fe36ba4bd": {
+    "names": [
+      "D_o_b_r_o",
+      "ватсон",
+      "anT127 iq",
+      "Bipolar",
+      "Skeptic",
+      "XIII13",
+      "Кроша ",
+      "rosti"
+    ],
+    "roles": [
+      "morgana",
+      "servant",
+      "servant",
+      "assassin",
+      "mordred",
+      "merlin",
+      "servant",
+      "percival"
+    ],
+    "redWin": true,
+    "blueWin": false,
+    "merlinShot": true,
+    "byMissions": false,
+    "date": "19.12.2021"
+  },
+  "https://avalon.fun/GAME-cb62172a-5097-4b3f-b78f-f2f8a9d57a0e": {
+    "names": [
+      "D_o_b_r_o",
+      "Федос",
+      "Skeptic",
+      "Кроша ",
+      "rosti",
+      "fnta",
+      "anT127 iq",
+      "Bipolar"
+    ],
+    "roles": [
+      "assassin",
+      "servant",
+      "merlin",
+      "servant",
+      "servant",
+      "morgana",
+      "percival",
+      "mordred"
+    ],
+    "redWin": true,
+    "blueWin": false,
+    "merlinShot": false,
+    "byMissions": true,
+    "date": "19.12.2021"
+  },
+  "https://avalon.fun/GAME-04d12a58-7c9b-4b46-86b3-8082c3d2d86f": {
+    "names": [
+      "Кроша ",
+      "To be King",
+      "XIII13",
+      "koenigzerg",
+      "",
+      "shashist",
+      "Nikitonga",
+      "rosti"
+    ],
+    "roles": [
+      "servant",
+      "percival",
+      "servant",
+      "morgana",
+      "merlin",
+      "servant",
+      "assassin",
+      "mordred"
+    ],
+    "redWin": false,
+    "blueWin": true,
+    "byMissions": true,
+    "date": "19.12.2021"
+  },
+  "https://avalon.fun/GAME-9b66c710-7497-4ada-ab2c-19da62281e44": {
+    "names": [
+      "Кроша ",
+      "XIII13",
+      "rosti",
+      "anT21 см",
+      "Nikitonga",
+      "To be King",
+      "shashist",
+      "koenigzerg"
+    ],
+    "roles": [
+      "assassin",
+      "merlin",
+      "percival",
+      "servant",
+      "servant",
+      "morgana",
+      "servant",
+      "mordred"
+    ],
+    "redWin": true,
+    "blueWin": false,
+    "merlinShot": true,
+    "byMissions": false,
+    "date": "19.12.2021"
+  },
+  "https://avalon.fun/GAME-eda54020-7c50-4e53-8af2-5a427d42b9a3": {
+    "names": [
+      "Кроша ",
+      "XIII13",
+      "Raffael",
+      "rosti",
+      "Nelki",
+      "anT21 см",
+      "пастернак",
+      "shashist"
+    ],
+    "roles": [
+      "percival",
+      "servant",
+      "assassin",
+      "servant",
+      "merlin",
+      "morgana",
+      "servant",
+      "mordred"
+    ],
+    "redWin": false,
+    "blueWin": true,
+    "byMissions": true,
+    "date": "18.12.2021"
+  },
+  "https://avalon.fun/GAME-eabeb99d-6b9d-492d-9c15-dbe74403040e": {
+    "names": [
+      "Кроша ",
+      "Raffael",
+      "rosti",
+      "Bipolar",
+      "XIII13",
+      "пастернак",
+      "shashist",
+      "anT21 см"
+    ],
+    "roles": [
+      "percival",
+      "morgana",
+      "servant",
+      "servant",
+      "servant",
+      "assassin",
+      "merlin",
+      "mordred"
+    ],
+    "redWin": true,
+    "blueWin": false,
+    "merlinShot": true,
+    "byMissions": false,
+    "date": "18.12.2021"
+  },
+  "https://avalon.fun/GAME-1f2e170d-9302-4ffe-92ba-3f73c4c0824f?isChatOpen=true": {
+    "names": [
+      "Reykon",
+      "D_o_b_r_o",
+      "koenigzerg",
+      "куськусь",
+      "anT21 см",
+      "shashist",
+      "Nelki",
+      "rosti",
+      "Nikitonga",
+      "To be King"
+    ],
+    "roles": [
+      "oberon",
+      "merlin",
+      "assassin",
+      "percival",
+      "mordred",
+      "servant",
+      "morgana",
+      "servant",
+      "servant",
+      "servant"
+    ],
+    "redWin": false,
+    "blueWin": true,
+    "byMissions": true,
+    "date": "18.12.2021"
+  }
 }

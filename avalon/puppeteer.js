@@ -115,8 +115,8 @@ const loadPage = async gameLink => {
 };
 
 const loadMessages = async ( channel, lastMessageId ) => {
-    const messageCount = Number.MAX_SAFE_INTEGER;
-    // const messageCount = 5;
+    const maximumMessageCount = Number.MAX_SAFE_INTEGER;
+    // const maximumMessageCount = 5;
     const fetchOptions = {limit: 100};
     let fetchComplete = false;
     let i = 1;
@@ -131,16 +131,22 @@ const loadMessages = async ( channel, lastMessageId ) => {
         console.log('i = ', (i * 100));
         i++;
         console.log(messages.size);
+
         if ( fetched.size === 0 ) {
             break;
         }
+
         lastMessageId = fetched.last().id;
         await Promise.all(fetched.map(async msg => {
-            if ( messages.size >= messageCount ) {
+            const isTooManyMessages = messages.size >= maximumMessageCount;
+            const isTooOldMessages = new Date(msg.createdTimestamp).getMonth() === 9;
+
+            if ( isTooManyMessages || isTooOldMessages ) {
                 fetchComplete = true;
 
                 return;
             }
+
             if ( msg.cleanContent.includes('https://avalon.fun/GAME-') ) {
                 const link = msg.cleanContent.match(/(http|ftp|https):\/\/([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,?^=%&:\/~+#-]*[\w?^=%&\/~+#-])/)[0];
                 const date = msg.createdAt.toLocaleDateString();
@@ -149,6 +155,7 @@ const loadMessages = async ( channel, lastMessageId ) => {
                 if ( !messagesOld.has(link) ) {
                     messages.add(link);
                 }
+
                 if ( messages.size !== sizeBefore ) {
                     dates2[link] = date;
                 }
