@@ -1,0 +1,48 @@
+{
+  "name": "android-stb-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx wdio run ./config/wdio.js",
+    "audio": "npx wdio run ./config/wdio.js --suite audio",
+    "player": "npx wdio run ./config/wdio.js --suite player",
+    "browser": "npx wdio run ./config/wdio.js --suite browser",
+    "files": "npx wdio run ./config/wdio.js --suite files",
+    "avalon": "node avalon/puppeteer.js",
+    "avalon2": "node avalon/puppeteer2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.infomir.dev:s.beregovoy/android-stb-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/allure-reporter": "^7.9.1",
+    "@wdio/cli": "^7.9.1",
+    "allure-commandline": "^2.13.8",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "cjs-eslint": "^2.1.0",
+    "cypress": "^8.5.0",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-jest-formatting": "^3.0.0",
+    "eslint-plugin-mocha": "^9.0.0",
+    "puppeteer": "^10.4.0",
+    "resemblejs": "^4.0.0"
+  },
+  "devDependencies": {
+    "@wdio/appium-service": "^7.8.0",
+    "@wdio/local-runner": "^7.9.1",
+    "@wdio/mocha-framework": "^7.9.1",
+    "@wdio/spec-reporter": "^7.9.0",
+    "appium": "^2.0.0-beta.12",
+    "chart.js-image": "^5.6.3",
+    "eslint-plugin-wdio": "^7.4.2",
+    "wdio-eslinter-service": "^0.0.2"
+  }
+}

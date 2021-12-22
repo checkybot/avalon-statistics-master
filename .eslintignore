@@ -1,0 +1,13 @@
+.idea
+node_modules
+data
+roles
+roles2
+data*
+links*
+dates*
+data/data5.js
+avalon/delMe*
+avalon/puppeteer___.js
+avalon/puppeteer2____.js
+.editorconfig
