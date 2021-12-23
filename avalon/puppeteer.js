@@ -46,7 +46,8 @@ const getGameData = () => {
         .substring(1)
         .slice(0, -1)
         .split(',')
-        .map(name => name.replace(/[^\w\d\sа-яА-Я]/g, ''));
+        .map(name => name.replace(/[^\w\d\sа-яА-Я]/g, ''))
+        .map(name => name.charAt(0).toUpperCase() + name.slice(1));
 
     if ( names.length <= 6 ) {
         return;
