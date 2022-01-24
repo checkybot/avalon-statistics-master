@@ -139,15 +139,16 @@ const loadMessages = async ( channel, lastMessageId ) => {
         lastMessageId = fetched.last().id;
         await Promise.all(fetched.map(async msg => {
             const isTooManyMessages = messages.size >= maximumMessageCount;
-            const isTooOldMessages = new Date(msg.createdTimestamp).getMonth() === 9;
+            const isMonthCorrect = new Date(msg.createdTimestamp).getMonth() >= 0;
+            const isYearCorrect = new Date(msg.createdTimestamp).getFullYear() === 2022;
 
-            if ( isTooManyMessages || isTooOldMessages ) {
+            if ( isTooManyMessages ) {
                 fetchComplete = true;
 
                 return;
             }
 
-            if ( msg.cleanContent.includes('https://avalon.fun/GAME-') ) {
+            if ( isMonthCorrect && isYearCorrect && msg.cleanContent.includes('https://avalon.fun/GAME-') ) {
                 const link = msg.cleanContent.match(/(http|ftp|https):\/\/([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,?^=%&:\/~+#-]*[\w?^=%&\/~+#-])/)[0];
                 const date = msg.createdAt.toLocaleDateString();
                 const sizeBefore = messages.size;
