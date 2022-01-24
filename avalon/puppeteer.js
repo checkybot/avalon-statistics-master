@@ -30,7 +30,9 @@ const getGameData = () => {
         redWin: false,
         blueWin: false,
         merlinShot: undefined,
-        byMissions: undefined
+        byMissions: undefined,
+        shotName: undefined,
+        shotRole: undefined
     };
     const roles = $('.player-avatar.player__player-avatar > .player-avatar__container > .player-avatar__avatar')
         .map(( __, role ) => $(role).css('background-image').match(/img\/(\w*)/)[1])
@@ -62,9 +64,15 @@ const getGameData = () => {
         }
     }).get()[0];
 
-    if ( typeof shotRoleIndex !== 'undefined' && roles[shotRoleIndex] === 'merlin' ) {
-        results.merlinShot = true;
+    if ( typeof shotRoleIndex !== 'undefined' ) {
+        if ( roles[shotRoleIndex] === 'merlin' ) {
+            results.merlinShot = true;
+        }
+
+        results.shotName = names[shotRoleIndex];
+        results.shotRole = roles[shotRoleIndex]
     }
+
     if ( successCount === 3 && !results.merlinShot ) {
         results.blueWin = true;
         results.byMissions = true;
@@ -76,6 +84,7 @@ const getGameData = () => {
         results.redWin = true;
         results.byMissions = false;
     }
+
     results.names = names;
     results.roles = roles;
 
@@ -143,7 +152,7 @@ const loadMessages = async ( channel, lastMessageId ) => {
             // const isMonthCorrect = new Date(msg.createdTimestamp).getMonth() >= 0;
             const isYearCorrect = new Date(msg.createdTimestamp).getFullYear() === 2022;
 
-            if ( isTooManyMessages || isYearCorrect ) {
+            if ( isTooManyMessages || !isYearCorrect ) {
                 fetchComplete = true;
 
                 return;
@@ -204,6 +213,7 @@ const loadDiscordMessages = async () => {
 (async () => {
     try {
         await loadDiscordMessages();
+
         const browser = await puppeteer.launch({
             'headless': false,
             'args': ['--fast-start', '--disable-extensions', '--no-sandbox'],
@@ -238,7 +248,6 @@ const loadDiscordMessages = async () => {
 
         fs.writeFileSync('./data/data5.js', 'module.exports = ' + JSON.stringify(data, replacer, 2));
         await browser.close();
-
     } catch ( e ) {
         console.log(e);
     }
