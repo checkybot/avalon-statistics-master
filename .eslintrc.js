@@ -3,14 +3,12 @@
 
 module.exports = {
     'plugins': [
-        'wdio',
         'import',
         'mocha',
         // https://github.com/dangreenisrael/eslint-plugin-jest-formatting/tree/master/docs/rules
         'jest-formatting'
     ],
     'extends': [
-        'plugin:wdio/recommended',
         // https://eslint.org/docs/rules/
         'eslint:recommended',
         // https://github.com/lo1tuma/eslint-plugin-mocha/tree/master/docs/rules
