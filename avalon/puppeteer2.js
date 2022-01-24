@@ -17,7 +17,8 @@ let textResults;
 const sampleFunctionToSearchGameLinksByAnyConditions = () => {
     Object.entries(a).forEach(( el, y ) => {
         let i;
-        let e = el[1];
+        const e = el[1];
+
         e?.names?.forEach(( name, index ) => {
             if ( name.includes('Кроша ') ) {
                 i = index;
@@ -257,7 +258,7 @@ const run = async () => {
         // console.log(datasets[0].data);
         const result = JSON.stringify(roleNameCountWinSorted, null, 4)
             .replace(/\"/g, '\'')
-            .replace(/(\n    )'(.*)\s*'(:)/g, '$1$2$3');
+            .replace(/(\n {4})'(.*)\s*'(:)/g, '$1$2$3');
 
         console.log('\n', (role.charAt(0).toUpperCase() + role.slice(1)), '\n');
         console.log(result);
