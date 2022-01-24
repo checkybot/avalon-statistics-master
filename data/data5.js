@@ -1,16 +1,82 @@
 module.exports = {
+  "https://avalon.fun/GAME-940103c6-ff11-4a5e-973e-157201610085": null,
+  "https://avalon.fun/GAME-f8610714-773e-4b83-8de7-0cc220d5d660": {
+    "names": [
+      "AntiAqua",
+      "AnT127 iq",
+      "Salat",
+      "Ватсон",
+      "Кириса",
+      "Kitsune",
+      "Reykon",
+      "Nikitonga",
+      "Федос",
+      "Koenigzerg"
+    ],
+    "roles": [
+      "servant",
+      "servant",
+      "merlin",
+      "mordred",
+      "assassin",
+      "servant",
+      "servant",
+      "oberon",
+      "percival",
+      "morgana"
+    ],
+    "redWin": false,
+    "blueWin": true,
+    "byMissions": true,
+    "shotName": "AnT127 iq",
+    "shotRole": "servant",
+    "date": "23.01.2022"
+  },
+  "https://avalon.fun/GAME-4db3e015-8ef5-479d-85ae-27fad0111a0a": {
+    "names": [
+      "Sveto4ka",
+      "Кириса",
+      "Salat",
+      "AntiAqua",
+      "Федос",
+      "Koenigzerg",
+      "Nikitonga",
+      "Reykon",
+      "AnT127 iq",
+      "Kitsune"
+    ],
+    "roles": [
+      "oberon",
+      "morgana",
+      "assassin",
+      "servant",
+      "mordred",
+      "servant",
+      "servant",
+      "merlin",
+      "servant",
+      "percival"
+    ],
+    "redWin": false,
+    "blueWin": true,
+    "byMissions": true,
+    "shotName": "Koenigzerg",
+    "shotRole": "servant",
+    "date": "23.01.2022"
+  },
+  "https://avalon.fun/GAME-97549f2f-a577-4777-96dc-7e1e31f69784": null,
   "https://avalon.fun/GAME-1181ce31-d5c2-403f-aca3-202c332c7ae9": null,
   "https://avalon.fun/GAME-30db6939-c544-4649-9aca-92c05a10b941": null,
   "https://avalon.fun/GAME-aad8d89b-b31c-4fe7-9089-3f3bcaa6ac29": {
     "names": [
       "Кроша ",
-      "пастернак",
+      "Пастернак",
       "Nikitonga",
-      "kefffirny",
-      "ватсон",
+      "Kefffirny",
+      "Ватсон",
       "Inal",
       "XIII13",
-      "ququshka"
+      "Ququshka"
     ],
     "roles": [
       "servant",
@@ -26,17 +92,19 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Kefffirny",
+    "shotRole": "merlin",
     "date": "22.01.2022"
   },
   "https://avalon.fun/GAME-a2856c00-7557-4a97-a1e3-3618fccf8ec8": {
     "names": [
       "Кроша ",
-      "пастернак",
-      "kefffirny",
+      "Пастернак",
+      "Kefffirny",
       "Nikitonga",
       "D_o_b_r_o",
       "Inal",
-      "ququshka",
+      "Ququshka",
       "XIII13"
     ],
     "roles": [
@@ -52,18 +120,20 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Пастернак",
+    "shotRole": "percival",
     "date": "21.01.2022"
   },
   "https://avalon.fun/GAME-ccd9d630-d03d-4f5c-89a3-696b7fc7c7e5": {
     "names": [
       "Кроша ",
       "AntiAqua",
-      "anT127 iq",
-      "pabuzka",
+      "AnT127 iq",
+      "Pabuzka",
       "D_o_b_r_o",
-      "kefffirny",
+      "Kefffirny",
       "Артем",
-      "ququshka"
+      "Ququshka"
     ],
     "roles": [
       "servant",
@@ -86,11 +156,11 @@ module.exports = {
       "Nikitonga",
       "AntiAqua",
       "Konstadio",
-      "kitsune",
+      "Kitsune",
       "Salat",
-      "anT127 iq",
+      "AnT127 iq",
       "Elpharran",
-      "kefffirny"
+      "Kefffirny"
     ],
     "roles": [
       "percival",
@@ -111,10 +181,10 @@ module.exports = {
   "https://avalon.fun/GAME-6772cae1-8a1a-4f49-b683-7ab1c2cc6a92": {
     "names": [
       "Кроша ",
-      "ватсон",
+      "Ватсон",
       "Skeptic",
       "D_o_b_r_o",
-      "sveto4ka",
+      "Sveto4ka",
       "Paloyan",
       "Inal",
       "XIII13"
@@ -132,6 +202,8 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Кроша ",
+    "shotRole": "servant",
     "date": "21.01.2022"
   },
   "https://avalon.fun/GAME-56ae989f-d5a9-4181-9056-ea00ea925250": {
@@ -140,12 +212,12 @@ module.exports = {
       "AntiAqua",
       "Молочный жик",
       "Konstadio",
-      "kitsune",
+      "Kitsune",
       "Bipolar",
       "Salat",
-      "anT127 iq",
+      "AnT127 iq",
       "Elpharran",
-      "kefffirny"
+      "Kefffirny"
     ],
     "roles": [
       "morgana",
@@ -162,6 +234,8 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Salat",
+    "shotRole": "percival",
     "date": "21.01.2022"
   },
   "https://avalon.fun/GAME-efe549d4-0db9-420e-94b3-2fa293f9f988": {
@@ -169,8 +243,8 @@ module.exports = {
       "Reykon",
       "Salat",
       "Elpharran",
-      "kefffirny",
-      "pabuzka",
+      "Kefffirny",
+      "Pabuzka",
       "Antinoob ",
       "Bipolar",
       "Кириса",
@@ -193,6 +267,8 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Inal",
+    "shotRole": "merlin",
     "date": "21.01.2022"
   },
   "https://avalon.fun/GAME-1a1ca70b-e10a-4acd-9b4c-4db8f97ae21c": {
@@ -200,13 +276,13 @@ module.exports = {
       "Reykon",
       "Salat",
       "Nikitonga",
-      "kitsune",
+      "Kitsune",
       "Elpharran",
       "Antinoob ",
-      "anT127 iq",
+      "AnT127 iq",
       "AntiAqua",
       "Konstadio",
-      "pabuzka"
+      "Pabuzka"
     ],
     "roles": [
       "oberon",
@@ -223,18 +299,20 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "AntiAqua",
+    "shotRole": "servant",
     "date": "20.01.2022"
   },
   "https://avalon.fun/GAME-0ae01c1d-ff8a-435c-b47d-131a11405ba4": {
     "names": [
       "Reykon",
       "AntiAqua",
-      "kefffirny",
+      "Kefffirny",
       "Antinoob ",
       "Nikitonga",
       "Konstadio",
-      "kitsune",
-      "pabuzka",
+      "Kitsune",
+      "Pabuzka",
       "Salat",
       "Elpharran"
     ],
@@ -253,17 +331,19 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Nikitonga",
+    "shotRole": "servant",
     "date": "20.01.2022"
   },
   "https://avalon.fun/GAME-b1b3c2ef-0af4-4df1-8abc-0e25de713817": {
     "names": [
       "D_o_b_r_o",
-      "ватсон",
-      "anT127 iq",
+      "Ватсон",
+      "AnT127 iq",
       "Кроша ",
       "XIII13",
-      "sveto4ka",
-      "fnta",
+      "Sveto4ka",
+      "Fnta",
       "Skeptic"
     ],
     "roles": [
@@ -279,6 +359,8 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "AnT127 iq",
+    "shotRole": "percival",
     "date": "20.01.2022"
   },
   "https://avalon.fun/GAME-4e740445-2b9c-410e-8ff6-d230eeafebb8": {
@@ -286,13 +368,13 @@ module.exports = {
       "Reykon",
       "Konstadio",
       "Salat",
-      "kitsune",
+      "Kitsune",
       "Antinoob ",
       "Elpharran",
       "AntiAqua",
       "Nikitonga",
-      "kefffirny",
-      "pabuzka"
+      "Kefffirny",
+      "Pabuzka"
     ],
     "roles": [
       "servant",
@@ -309,18 +391,20 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Kitsune",
+    "shotRole": "percival",
     "date": "20.01.2022"
   },
   "https://avalon.fun/GAME-03698daa-9bf9-4e62-a79a-def4edbf48db": {
     "names": [
       "D_o_b_r_o",
-      "ватсон",
-      "anT127 iq",
+      "Ватсон",
+      "AnT127 iq",
       "Кроша ",
       "XIII13",
       "Skeptic",
-      "пастернак",
-      "sveto4ka"
+      "Пастернак",
+      "Sveto4ka"
     ],
     "roles": [
       "mordred",
@@ -335,6 +419,8 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "XIII13",
+    "shotRole": "percival",
     "date": "20.01.2022"
   },
   "https://avalon.fun/GAME-b22f5c9a-160a-40bd-a0cf-19798a5a566e": {
@@ -342,11 +428,11 @@ module.exports = {
       "Кроша ",
       "Reykon",
       "Inal",
-      "kefffirny",
-      "kitsune",
+      "Kefffirny",
+      "Kitsune",
       "Артем",
-      "pabuzka",
-      "ватсон"
+      "Pabuzka",
+      "Ватсон"
     ],
     "roles": [
       "percival",
@@ -366,13 +452,13 @@ module.exports = {
   },
   "https://avalon.fun/GAME-7a3aeb03-08bb-42dd-a40b-5d400aae7056": {
     "names": [
-      "kefffirny",
-      "koenigzerg",
+      "Kefffirny",
+      "Koenigzerg",
       "Inal",
-      "anT127 iq",
-      "pabuzka",
-      "ватсон",
-      "kitsune",
+      "AnT127 iq",
+      "Pabuzka",
+      "Ватсон",
+      "Kitsune",
       "Reykon"
     ],
     "roles": [
@@ -388,13 +474,15 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Kitsune",
+    "shotRole": "servant",
     "date": "19.01.2022"
   },
   "https://avalon.fun/GAME-acd31128-c30a-47ea-9f2f-bf316b380dad": {
     "names": [
       "D_o_b_r_o",
-      "kefffirny",
-      "koenigzerg",
+      "Kefffirny",
+      "Koenigzerg",
       "XIII13",
       "BLEFF",
       "Inal",
@@ -414,18 +502,20 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Kefffirny",
+    "shotRole": "percival",
     "date": "19.01.2022"
   },
   "https://avalon.fun/GAME-36aafaa0-23bd-4776-8693-a03e0502516c": {
     "names": [
-      "pabuzka",
-      "kitsune",
+      "Pabuzka",
+      "Kitsune",
       "Elpharran",
-      "ватсон",
+      "Ватсон",
       "Nikitonga",
       "Reykon",
       "Antinoob ",
-      "бесцветный",
+      "Бесцветный",
       "Konstadio",
       "Salat"
     ],
@@ -445,18 +535,20 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Antinoob ",
+    "shotRole": "merlin",
     "date": "19.01.2022"
   },
   "https://avalon.fun/GAME-c2799a17-35ee-4053-95c9-15a2aa4123f0": {
     "names": [
       "D_o_b_r_o",
-      "sveto4ka",
-      "kefffirny",
+      "Sveto4ka",
+      "Kefffirny",
       "Кроша ",
       "XIII13",
       "Skeptic",
       "BLEFF",
-      "koenigzerg"
+      "Koenigzerg"
     ],
     "roles": [
       "servant",
@@ -471,6 +563,8 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "D_o_b_r_o",
+    "shotRole": "servant",
     "date": "19.01.2022"
   },
   "https://avalon.fun/GAME-63a5b0b4-f84f-4b6c-88c9-dc0d9025a9e3": {
@@ -478,11 +572,11 @@ module.exports = {
       "Кроша ",
       "XIII13",
       "Inal",
-      "sveto4ka",
+      "Sveto4ka",
       "Antinoob ",
-      "pabuzka",
+      "Pabuzka",
       "Артем",
-      "ватсон"
+      "Ватсон"
     ],
     "roles": [
       "assassin",
@@ -497,17 +591,19 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Pabuzka",
+    "shotRole": "servant",
     "date": "19.01.2022"
   },
   "https://avalon.fun/GAME-bd156e97-1dc4-4519-8512-4ae85ec6b24d": {
     "names": [
-      "ватсон",
-      "anT127 iq",
-      "kitsune",
+      "Ватсон",
+      "AnT127 iq",
+      "Kitsune",
       "Кроша ",
       "XIII13",
       "Inal",
-      "pabuzka",
+      "Pabuzka",
       "Antinoob "
     ],
     "roles": [
@@ -523,15 +619,17 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "AnT127 iq",
+    "shotRole": "percival",
     "date": "18.01.2022"
   },
   "https://avalon.fun/GAME-9c59fa45-5b56-4d92-8c8e-370ff48565f6": {
     "names": [
       "D_o_b_r_o",
       "Salat",
-      "ватсон",
-      "anT127 iq",
-      "kitsune",
+      "Ватсон",
+      "AnT127 iq",
+      "Kitsune",
       "Кроша ",
       "Antinoob ",
       "XIII13"
@@ -549,17 +647,19 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "XIII13",
+    "shotRole": "percival",
     "date": "18.01.2022"
   },
   "https://avalon.fun/GAME-d13a8be5-6e1b-4986-9c43-1d809b3f5437": {
     "names": [
       "D_o_b_r_o",
-      "ватсон",
-      "пастернак",
+      "Ватсон",
+      "Пастернак",
       "Salat",
-      "anT127 iq",
+      "AnT127 iq",
       "Кроша ",
-      "kitsune",
+      "Kitsune",
       "Bipolar"
     ],
     "roles": [
@@ -576,18 +676,20 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Kitsune",
+    "shotRole": "merlin",
     "date": "18.01.2022"
   },
   "https://avalon.fun/GAME-c7c544eb-f7ad-4cc4-b8a3-5dfb3fa54e5d": {
     "names": [
       "Inal",
-      "ватсон",
+      "Ватсон",
       "Кроша ",
       "D_o_b_r_o",
       "Кириса",
       "Федос",
       "Salat",
-      "anT127 iq"
+      "AnT127 iq"
     ],
     "roles": [
       "mordred",
@@ -602,18 +704,20 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Ватсон",
+    "shotRole": "percival",
     "date": "17.01.2022"
   },
   "https://avalon.fun/GAME-0a0a32bb-c488-4085-9f8a-cf6468fd0b8d": {
     "names": [
       "Inal",
-      "ватсон",
-      "anT127 iq",
+      "Ватсон",
+      "AnT127 iq",
       "Кроша ",
       "D_o_b_r_o",
       "Кириса",
       "Федос",
-      "sveto4ka"
+      "Sveto4ka"
     ],
     "roles": [
       "assassin",
@@ -629,18 +733,20 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Кроша ",
+    "shotRole": "merlin",
     "date": "17.01.2022"
   },
   "https://avalon.fun/GAME-4955dd62-243c-4369-a3e4-b705b511d8b6": {
     "names": [
       "Артем",
       "Inal",
-      "fnta",
-      "ватсон",
-      "anT127 iq",
+      "Fnta",
+      "Ватсон",
+      "AnT127 iq",
       "Кроша ",
       "D_o_b_r_o",
-      "sveto4ka"
+      "Sveto4ka"
     ],
     "roles": [
       "mordred",
@@ -656,16 +762,18 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Ватсон",
+    "shotRole": "merlin",
     "date": "17.01.2022"
   },
   "https://avalon.fun/GAME-6e7c5d2c-0cf8-4ce2-9a9f-b1e4e9ba0aba": {
     "names": [
-      "anT127 iq",
-      "fnta",
-      "sveto4ka",
+      "AnT127 iq",
+      "Fnta",
+      "Sveto4ka",
       "Артем",
       "Кроша ",
-      "ватсон",
+      "Ватсон",
       "Inal",
       "D_o_b_r_o"
     ],
@@ -682,18 +790,20 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Inal",
+    "shotRole": "servant",
     "date": "17.01.2022"
   },
   "https://avalon.fun/GAME-9afc1ae9-028c-4fe0-b93e-771969572ec4": {
     "names": [
       "Reykon",
-      "ватсон",
-      "anT127 iq",
+      "Ватсон",
+      "AnT127 iq",
       "Bipolar",
       "Antinoob ",
       "Nikitonga",
       "Inal",
-      "sveto4ka"
+      "Sveto4ka"
     ],
     "roles": [
       "merlin",
@@ -708,15 +818,17 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Ватсон",
+    "shotRole": "servant",
     "date": "16.01.2022"
   },
   "https://avalon.fun/GAME-580cf407-71b6-4279-abc9-d3067b13ed02": {
     "names": [
       "Reykon",
-      "anT127 iq",
+      "AnT127 iq",
       "D_o_b_r_o",
-      "ватсон",
-      "sveto4ka",
+      "Ватсон",
+      "Sveto4ka",
       "Bipolar",
       "Salat",
       "Antinoob "
@@ -735,16 +847,18 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "D_o_b_r_o",
+    "shotRole": "merlin",
     "date": "16.01.2022"
   },
   "https://avalon.fun/GAME-5c070e31-2ee0-4c6b-8803-9ea757ff7983": {
     "names": [
       "Reykon",
-      "ватсон",
-      "fnta",
+      "Ватсон",
+      "Fnta",
       "Нокс",
       "Кроша ",
-      "пастернак",
+      "Пастернак",
       "D_o_b_r_o",
       "Salat"
     ],
@@ -769,10 +883,10 @@ module.exports = {
       "Reykon",
       "Кроша ",
       "D_o_b_r_o",
-      "fnta",
+      "Fnta",
       "Salat",
-      "пастернак",
-      "ватсон",
+      "Пастернак",
+      "Ватсон",
       "Нокс"
     ],
     "roles": [
@@ -788,18 +902,20 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Пастернак",
+    "shotRole": "servant",
     "date": "16.01.2022"
   },
   "https://avalon.fun/GAME-aae7c58b-8f0d-492b-b03c-0b256e89d988": {
     "names": [
       "Reykon",
       "Nikitonga",
-      "ватсон",
+      "Ватсон",
       "Bipolar",
-      "koenigzerg",
-      "anT127 iq",
+      "Koenigzerg",
+      "AnT127 iq",
       "Salat",
-      "ququshka",
+      "Ququshka",
       "Konstadio",
       "Inal"
     ],
@@ -818,17 +934,19 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Ватсон",
+    "shotRole": "servant",
     "date": "15.01.2022"
   },
   "https://avalon.fun/GAME-4c596b7c-3c4f-4ac9-a9dd-58c8f08107f9": {
     "names": [
       "Reykon",
-      "ququshka",
-      "koenigzerg",
+      "Ququshka",
+      "Koenigzerg",
       "Bipolar",
       "Paloyan",
-      "anT127 iq",
-      "ватсон",
+      "AnT127 iq",
+      "Ватсон",
       "Salat"
     ],
     "roles": [
@@ -850,9 +968,9 @@ module.exports = {
   "https://avalon.fun/GAME-a38698b3-ef4c-4a76-a7c8-dd86a5f55b6d": {
     "names": [
       "Reykon",
-      "koenigzerg",
-      "anT127 iq",
-      "пастернак",
+      "Koenigzerg",
+      "AnT127 iq",
+      "Пастернак",
       "Bipolar",
       "Кроша ",
       "D_o_b_r_o",
@@ -879,10 +997,10 @@ module.exports = {
       "Reykon",
       "Skeptic",
       "D_o_b_r_o",
-      "anT127 iq",
+      "AnT127 iq",
       "Bipolar",
-      "koenigzerg",
-      "пастернак",
+      "Koenigzerg",
+      "Пастернак",
       "Кроша "
     ],
     "roles": [
@@ -898,6 +1016,8 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "AnT127 iq",
+    "shotRole": "percival",
     "date": "15.01.2022"
   },
   "https://avalon.fun/GAME-4312b548-49ad-4b20-af4c-5c3afb546228": null,
@@ -905,12 +1025,12 @@ module.exports = {
     "names": [
       "Кроша ",
       "Артем",
-      "kefffirny",
+      "Kefffirny",
       "Inal",
-      "ватсон",
+      "Ватсон",
       "Reykon",
       "Bipolar",
-      "ququshka"
+      "Ququshka"
     ],
     "roles": [
       "servant",
@@ -925,16 +1045,18 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Reykon",
+    "shotRole": "servant",
     "date": "15.01.2022"
   },
   "https://avalon.fun/GAME-a36f606d-fa3e-4a75-9b0c-c80ee4bb3ee4": {
     "names": [
       "Кроша ",
       "Bipolar",
-      "пастернак",
-      "ватсон",
+      "Пастернак",
+      "Ватсон",
       "Кириса",
-      "anT127 iq",
+      "AnT127 iq",
       "Reykon",
       "D_o_b_r_o"
     ],
@@ -951,17 +1073,19 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Ватсон",
+    "shotRole": "servant",
     "date": "14.01.2022"
   },
   "https://avalon.fun/GAME-77dc3411-5362-468e-afeb-1f6d62fd3f7c": {
     "names": [
       "Кроша ",
       "Кириса",
-      "anT127 iq",
-      "kitsune",
+      "AnT127 iq",
+      "Kitsune",
       "D_o_b_r_o",
       "Bipolar",
-      "пастернак",
+      "Пастернак",
       "Reykon"
     ],
     "roles": [
@@ -977,18 +1101,20 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "AnT127 iq",
+    "shotRole": "percival",
     "date": "14.01.2022"
   },
   "https://avalon.fun/GAME-18d20318-dd7c-4cf2-a25b-9d1d751d53ff": {
     "names": [
       "Кириса",
-      "fnta",
-      "anT127 iq",
+      "Fnta",
+      "AnT127 iq",
       "D_o_b_r_o",
-      "пастернак",
+      "Пастернак",
       "Bipolar",
       "Кроша ",
-      "ватсон"
+      "Ватсон"
     ],
     "roles": [
       "servant",
@@ -1012,10 +1138,10 @@ module.exports = {
       "D_o_b_r_o",
       "Bipolar",
       "Inal",
-      "anT127 iq",
-      "kefffirny",
+      "AnT127 iq",
+      "Kefffirny",
       "Groovion",
-      "kitsune"
+      "Kitsune"
     ],
     "roles": [
       "servant",
@@ -1030,17 +1156,19 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Kefffirny",
+    "shotRole": "servant",
     "date": "13.01.2022"
   },
   "https://avalon.fun/GAME-42f988d5-4ba0-4002-bf1b-16cbe6d2a716": {
     "names": [
       "Кроша ",
       "D_o_b_r_o",
-      "anT127 iq",
-      "fnta",
-      "kefffirny",
+      "AnT127 iq",
+      "Fnta",
+      "Kefffirny",
       "Bipolar",
-      "mego_girl",
+      "Mego_girl",
       "Inal"
     ],
     "roles": [
@@ -1062,12 +1190,12 @@ module.exports = {
   "https://avalon.fun/GAME-b9bee675-a5a6-456e-becc-7606966c6682": {
     "names": [
       "Кроша ",
-      "fanta64",
+      "Fanta64",
       "Bipolar",
       "Кириса",
       "Antinoob ",
-      "ватсон",
-      "anT127 iq",
+      "Ватсон",
+      "AnT127 iq",
       "D_o_b_r_o"
     ],
     "roles": [
@@ -1089,12 +1217,12 @@ module.exports = {
   "https://avalon.fun/GAME-78f209b0-831f-4001-9ebd-1f2bf71b4ea9": {
     "names": [
       "Кроша ",
-      "fanta64",
+      "Fanta64",
       "D_o_b_r_o",
-      "ватсон",
+      "Ватсон",
       "Bipolar",
       "Reykon",
-      "anT127 iq",
+      "AnT127 iq",
       "Кириса"
     ],
     "roles": [
@@ -1110,18 +1238,20 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Bipolar",
+    "shotRole": "servant",
     "date": "11.01.2022"
   },
   "https://avalon.fun/GAME-1e521a4f-2cd3-4bb5-bc76-3f9ca404a2f4": null,
   "https://avalon.fun/GAME-aa7ffc83-d2b3-40c1-8aaa-606d49ade883": {
     "names": [
       "Кроша ",
-      "ватсон",
+      "Ватсон",
       "Кириса",
       "Antinoob ",
       "Bipolar",
       "Salat",
-      "anT127 iq",
+      "AnT127 iq",
       "Артем"
     ],
     "roles": [
@@ -1147,8 +1277,8 @@ module.exports = {
       "Кроша ",
       "XIII13",
       "Bipolar",
-      "ватсон",
-      "anT127 iq",
+      "Ватсон",
+      "AnT127 iq",
       "Salat"
     ],
     "roles": [
@@ -1164,17 +1294,19 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "XIII13",
+    "shotRole": "servant",
     "date": "10.01.2022"
   },
   "https://avalon.fun/GAME-e57bcb98-ba3e-4b21-b4cd-6e6dc21263e6": {
     "names": [
       "Кроша ",
       "Reykon",
-      "anT127 iq",
+      "AnT127 iq",
       "Bipolar",
       "Федос",
       "D_o_b_r_o",
-      "ватсон",
+      "Ватсон",
       "XIII13"
     ],
     "roles": [
@@ -1197,9 +1329,9 @@ module.exports = {
     "names": [
       "Кроша ",
       "Reykon",
-      "ватсон",
+      "Ватсон",
       "Федос",
-      "anT127 iq",
+      "AnT127 iq",
       "D_o_b_r_o",
       "XIII13",
       "Bipolar"
@@ -1218,16 +1350,18 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "AnT127 iq",
+    "shotRole": "merlin",
     "date": "10.01.2022"
   },
   "https://avalon.fun/GAME-3bc41ae3-faae-4b7a-b048-0d53c588cb72": {
     "names": [
       "Кроша ",
-      "пастернак",
+      "Пастернак",
       "D_o_b_r_o",
       "Bipolar",
-      "ватсон",
-      "anT127 iq",
+      "Ватсон",
+      "AnT127 iq",
       "Reykon",
       "XIII13"
     ],
@@ -1244,6 +1378,8 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Bipolar",
+    "shotRole": "percival",
     "date": "10.01.2022"
   },
   "https://avalon.fun/GAME-24f94e02-5b90-4571-8292-b9e9eb68faeb": {
@@ -1251,8 +1387,8 @@ module.exports = {
       "Кроша ",
       "Antinoob ",
       "D_o_b_r_o",
-      "ватсон",
-      "anT127 iq",
+      "Ватсон",
+      "AnT127 iq",
       "Кириса",
       "XIII13",
       "Reykon"
@@ -1280,8 +1416,8 @@ module.exports = {
       "Артем",
       "Кириса",
       "D_o_b_r_o",
-      "fanta64",
-      "anT127 iq",
+      "Fanta64",
+      "AnT127 iq",
       "Antinoob "
     ],
     "roles": [
@@ -1297,6 +1433,8 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "D_o_b_r_o",
+    "shotRole": "percival",
     "date": "09.01.2022"
   },
   "https://avalon.fun/GAME-9dc32a4f-422d-4e73-8db5-17a0b6cbce62": {
@@ -1304,11 +1442,11 @@ module.exports = {
       "Кроша ",
       "Кириса",
       "D_o_b_r_o",
-      "anT127 iq",
+      "AnT127 iq",
       "XIII13",
       "Артем",
-      "fanta64",
-      "пастернак"
+      "Fanta64",
+      "Пастернак"
     ],
     "roles": [
       "morgana",
@@ -1331,10 +1469,10 @@ module.exports = {
     "names": [
       "Кроша ",
       "D_o_b_r_o",
-      "ватсон",
+      "Ватсон",
       "Федос",
       "Артем",
-      "anT127 iq",
+      "AnT127 iq",
       "XIII13",
       "Reykon"
     ],
@@ -1352,18 +1490,20 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "XIII13",
+    "shotRole": "merlin",
     "date": "08.01.2022"
   },
   "https://avalon.fun/GAME-36306b2f-0cf7-4389-8fa1-e8ca032bf94e": {
     "names": [
       "Кроша ",
-      "fnta",
+      "Fnta",
       "D_o_b_r_o",
       "Кириса",
-      "goodstaff",
-      "ватсон",
-      "пастернак",
-      "anT127 iq"
+      "Goodstaff",
+      "Ватсон",
+      "Пастернак",
+      "AnT127 iq"
     ],
     "roles": [
       "morgana",
@@ -1379,6 +1519,8 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Goodstaff",
+    "shotRole": "merlin",
     "date": "08.01.2022"
   },
   "https://avalon.fun/GAME-0ebe87a3-ac30-444b-a174-0e50511fff34": null,
@@ -1386,10 +1528,10 @@ module.exports = {
     "names": [
       "Кроша ",
       "Кириса",
-      "anT127 iq",
-      "пастернак",
-      "goodstaff",
-      "ватсон",
+      "AnT127 iq",
+      "Пастернак",
+      "Goodstaff",
+      "Ватсон",
       "1as1",
       "D_o_b_r_o"
     ],
@@ -1414,11 +1556,11 @@ module.exports = {
       "Кроша ",
       "Inal",
       "D_o_b_r_o",
-      "mego_girl",
-      "anT127 iq",
-      "ватсон",
+      "Mego_girl",
+      "AnT127 iq",
+      "Ватсон",
       "XIII13",
-      "koenigzerg"
+      "Koenigzerg"
     ],
     "roles": [
       "servant",
@@ -1433,17 +1575,19 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Ватсон",
+    "shotRole": "servant",
     "date": "07.01.2022"
   },
   "https://avalon.fun/GAME-5011899e-0991-43f5-ad22-79eb3c11d5dd": {
     "names": [
       "Кроша ",
       "Артем",
-      "anT127 iq",
-      "koenigzerg",
+      "AnT127 iq",
+      "Koenigzerg",
       "D_o_b_r_o",
       "Inal",
-      "ватсон",
+      "Ватсон",
       "XIII13"
     ],
     "roles": [
@@ -1459,6 +1603,8 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Koenigzerg",
+    "shotRole": "servant",
     "date": "07.01.2022"
   },
   "https://avalon.fun/GAME-13bfadd3-c4fd-49e2-99b5-ddfb0b322b43": {
@@ -1467,7 +1613,7 @@ module.exports = {
       "XIII13",
       "Кириса",
       "Inal",
-      "ватсон",
+      "Ватсон",
       "D_o_b_r_o",
       "Skeptic",
       "Эльф"
@@ -1485,6 +1631,8 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Skeptic",
+    "shotRole": "servant",
     "date": "07.01.2022"
   },
   "https://avalon.fun/GAME-5be657ce-6f2b-42ce-8803-fdb1c3275d3a": {
@@ -1492,10 +1640,10 @@ module.exports = {
       "Кроша ",
       "Skeptic",
       "XIII13",
-      "koenigzerg",
+      "Koenigzerg",
       "D_o_b_r_o",
       "Inal",
-      "ватсон",
+      "Ватсон",
       "Кириса"
     ],
     "roles": [
@@ -1511,16 +1659,18 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Skeptic",
+    "shotRole": "servant",
     "date": "07.01.2022"
   },
   "https://avalon.fun/GAME-101d02f5-6046-4c7f-80fd-8bcb578c8eff": {
     "names": [
       "Кроша ",
-      "anT127 iq",
-      "ватсон",
-      "fnta",
-      "stasesonchik",
-      "koenigzerg",
+      "AnT127 iq",
+      "Ватсон",
+      "Fnta",
+      "Stasesonchik",
+      "Koenigzerg",
       "D_o_b_r_o",
       "Кириса"
     ],
@@ -1537,19 +1687,21 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Fnta",
+    "shotRole": "servant",
     "date": "07.01.2022"
   },
   "https://avalon.fun/GAME-e7f4c239-5489-4df8-99cc-1880d65297c2": null,
   "https://avalon.fun/GAME-d217de52-48f7-4537-841d-870c338e4f1c": {
     "names": [
       "Skeptic",
-      "ватсон",
+      "Ватсон",
       "Нокс",
-      "anT127 iq",
+      "AnT127 iq",
       "Кроша ",
       "D_o_b_r_o",
-      "mego_girl",
-      "goodstaff"
+      "Mego_girl",
+      "Goodstaff"
     ],
     "roles": [
       "percival",
@@ -1564,6 +1716,8 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Mego_girl",
+    "shotRole": "servant",
     "date": "07.01.2022"
   },
   "https://avalon.fun/GAME-c5e8d3ca-bec4-45c8-abc7-d36de61dd114": null,
@@ -1571,12 +1725,12 @@ module.exports = {
     "names": [
       "Нокс",
       "Кроша ",
-      "mego_girl",
+      "Mego_girl",
       "Skeptic",
-      "anT127 iq",
+      "AnT127 iq",
       "D_o_b_r_o",
-      "fnta",
-      "ватсон"
+      "Fnta",
+      "Ватсон"
     ],
     "roles": [
       "mordred",
@@ -1591,17 +1745,19 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Fnta",
+    "shotRole": "servant",
     "date": "07.01.2022"
   },
   "https://avalon.fun/GAME-4989eb1b-2f33-4b6d-b2dc-030bc6507dbc": {
     "names": [
-      "ватсон",
+      "Ватсон",
       "Кириса",
-      "anT127 iq",
-      "goodstaff",
+      "AnT127 iq",
+      "Goodstaff",
       "Кроша ",
       "КырСосичка ",
-      "пастернак",
+      "Пастернак",
       "D_o_b_r_o"
     ],
     "roles": [
@@ -1625,8 +1781,8 @@ module.exports = {
       "Кроша ",
       "Кириса",
       "Reykon",
-      "ватсон",
-      "fnta",
+      "Ватсон",
+      "Fnta",
       "Inal",
       "D_o_b_r_o",
       "Нокс"
@@ -1645,18 +1801,20 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Нокс",
+    "shotRole": "merlin",
     "date": "05.01.2022"
   },
   "https://avalon.fun/GAME-91ea50a2-dc22-475c-8534-688935666144": null,
   "https://avalon.fun/GAME-1f7c6bab-3aca-4778-834d-bfa55bda3b8a?isChatOpen=true": {
     "names": [
       "Кириса",
-      "ватсон",
+      "Ватсон",
       "",
       "Bipolar",
-      "anT127 iq",
+      "AnT127 iq",
       "Reykon",
-      "fanta64",
+      "Fanta64",
       "Nikitonga"
     ],
     "roles": [
@@ -1673,17 +1831,19 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Fanta64",
+    "shotRole": "merlin",
     "date": "04.01.2022"
   },
   "https://avalon.fun/GAME-b121b6ae-e2b6-4219-bf1f-dc9a9729fae6": {
     "names": [
       "Кроша ",
       "Кириса",
-      "ватсон",
+      "Ватсон",
       "D_o_b_r_o",
       "",
       "Bipolar",
-      "anT127 iq",
+      "AnT127 iq",
       "Reykon"
     ],
     "roles": [
@@ -1699,17 +1859,19 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Ватсон",
+    "shotRole": "percival",
     "date": "04.01.2022"
   },
   "https://avalon.fun/GAME-0f19762c-1be6-417d-8efc-d66fc32c4e8b": {
     "names": [
-      "пастернак",
+      "Пастернак",
       "Kisel",
-      "ватсон",
+      "Ватсон",
       "CAJM",
       "Bipolar",
-      "мi тут проста",
-      "женьшень",
+      "Мi тут проста",
+      "Женьшень",
       "Джон Доу"
     ],
     "roles": [
@@ -1726,20 +1888,22 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Джон Доу",
+    "shotRole": "merlin",
     "date": "04.01.2022"
   },
   "https://avalon.fun/GAME-9f243e1a-8ec1-4bce-9fc8-b61c7676b4ef": {
     "names": [
       "Кроша ",
-      "пастернак",
+      "Пастернак",
       "Bipolar",
       "Кириса",
       "PQNY",
       "Reykon",
       "",
       "D_o_b_r_o",
-      "ватсон",
-      "anT127 iq"
+      "Ватсон",
+      "AnT127 iq"
     ],
     "roles": [
       "servant",
@@ -1756,15 +1920,17 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "D_o_b_r_o",
+    "shotRole": "servant",
     "date": "04.01.2022"
   },
   "https://avalon.fun/GAME-958e105a-506d-4ac3-8e59-8c36b88c4c96": {
     "names": [
       "Кроша ",
-      "anT127 iq",
-      "пастернак",
+      "AnT127 iq",
+      "Пастернак",
       "Bipolar",
-      "ватсон",
+      "Ватсон",
       "Reykon",
       "Нокс",
       "Кириса"
@@ -1782,6 +1948,8 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Bipolar",
+    "shotRole": "percival",
     "date": "04.01.2022"
   },
   "https://avalon.fun/GAME-0fb13dff-01af-4a04-a965-8924fef8eebb": null,
@@ -1790,11 +1958,11 @@ module.exports = {
       "Кроша ",
       "Reykon",
       "Skeptic",
-      "kitsune",
-      "fnta",
-      "ватсон",
+      "Kitsune",
+      "Fnta",
+      "Ватсон",
       "Bipolar",
-      "anT127 iq"
+      "AnT127 iq"
     ],
     "roles": [
       "assassin",
@@ -1816,13 +1984,13 @@ module.exports = {
   "https://avalon.fun/GAME-11f7e540-f1e6-4025-a9f4-aa8260f2df50": {
     "names": [
       "D_o_b_r_o",
-      "koenigzerg",
+      "Koenigzerg",
       "Кроша ",
       "Кириса",
-      "kitsune",
-      "ватсон",
-      "пастернак",
-      "fnta"
+      "Kitsune",
+      "Ватсон",
+      "Пастернак",
+      "Fnta"
     ],
     "roles": [
       "assassin",
@@ -1838,19 +2006,21 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Ватсон",
+    "shotRole": "merlin",
     "date": "03.01.2022"
   },
   "https://avalon.fun/GAME-d123500e-1297-456f-914c-b828c49d5866": null,
   "https://avalon.fun/GAME-816b1319-2c8c-4e37-87a7-8e1fb99383ab": {
     "names": [
-      "пастернак",
+      "Пастернак",
       "Кроша ",
-      "anT127 iq",
+      "AnT127 iq",
       "Нокс",
-      "ватсон",
-      "koenigzerg",
-      "kitsune",
-      "horizonm"
+      "Ватсон",
+      "Koenigzerg",
+      "Kitsune",
+      "Horizonm"
     ],
     "roles": [
       "servant",
@@ -1871,8 +2041,8 @@ module.exports = {
   "https://avalon.fun/GAME-d893680d-ea3a-4105-a865-1334cd254ba0": {
     "names": [
       "Reykon",
-      "anT127 iq",
-      "ququshka",
+      "AnT127 iq",
+      "Ququshka",
       "Кроша ",
       "Konstadio",
       "Артем",
@@ -1893,6 +2063,8 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Nelkiбелка",
+    "shotRole": "merlin",
     "date": "03.01.2022"
   },
   "https://avalon.fun/GAME-5dd5b2aa-69a2-4071-b1f2-729591f9083c": {
@@ -1901,9 +2073,9 @@ module.exports = {
       "Konstadio",
       "Groovion",
       "BLEFF",
-      "бесцветный",
-      "ватсон",
-      "ququshka",
+      "Бесцветный",
+      "Ватсон",
+      "Ququshka",
       "Antinoob "
     ],
     "roles": [
@@ -1925,12 +2097,12 @@ module.exports = {
   "https://avalon.fun/GAME-5f89f4ec-bee7-4518-a7c3-5ac6bbeaa643": {
     "names": [
       "D_o_b_r_o",
-      "fnta",
+      "Fnta",
       "Кириса",
       "Nikitonga",
-      "ватсон",
-      "koenigzerg",
-      "anT127 iq",
+      "Ватсон",
+      "Koenigzerg",
+      "AnT127 iq",
       "Groovion"
     ],
     "roles": [
@@ -1947,6 +2119,8 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "D_o_b_r_o",
+    "shotRole": "merlin",
     "date": "02.01.2022"
   },
   "https://avalon.fun/GAME-cfadfac7-07fd-4a42-b2cf-39fd72949ce8": {
@@ -1954,11 +2128,11 @@ module.exports = {
       "Кроша ",
       "Reykon",
       "Inal",
-      "бесцветный",
+      "Бесцветный",
       "D_o_b_r_o",
-      "пастернак",
+      "Пастернак",
       "Федос",
-      "anT127 iq"
+      "AnT127 iq"
     ],
     "roles": [
       "mordred",
@@ -1973,18 +2147,20 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "AnT127 iq",
+    "shotRole": "servant",
     "date": "02.01.2022"
   },
   "https://avalon.fun/GAME-b3eb751e-c6a5-45b5-b5e7-bbc4e5cb9c70": {
     "names": [
       "Кроша ",
       "Федос",
-      "бесцветный",
+      "Бесцветный",
       "Reykon",
-      "пастернак",
+      "Пастернак",
       "Inal",
       "D_o_b_r_o",
-      "anT127 iq"
+      "AnT127 iq"
     ],
     "roles": [
       "percival",
@@ -1999,17 +2175,19 @@ module.exports = {
     "redWin": false,
     "blueWin": true,
     "byMissions": true,
+    "shotName": "Федос",
+    "shotRole": "servant",
     "date": "02.01.2022"
   },
   "https://avalon.fun/GAME-7ba712e1-7454-4b6e-ba4d-bd31b1e0ab75": null,
   "https://avalon.fun/GAME-41f5f407-1af5-4d79-8165-78e0fe9edcf2": {
     "names": [
-      "anT127 iq",
+      "AnT127 iq",
       "Нокс",
-      "пастернак",
-      "koenigzerg",
+      "Пастернак",
+      "Koenigzerg",
       "Кириса",
-      "ватсон",
+      "Ватсон",
       "D_o_b_r_o",
       "Groovion"
     ],
@@ -2031,13 +2209,13 @@ module.exports = {
   },
   "https://avalon.fun/GAME-447a407e-459e-433f-8e43-f5c661abf00e": {
     "names": [
-      "koenigzerg",
+      "Koenigzerg",
       "Нокс",
-      "ватсон",
+      "Ватсон",
       "D_o_b_r_o",
-      "anT127 iq",
-      "fnta",
-      "пастернак",
+      "AnT127 iq",
+      "Fnta",
+      "Пастернак",
       "Кириса"
     ],
     "roles": [
@@ -2054,18 +2232,20 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Ватсон",
+    "shotRole": "merlin",
     "date": "01.01.2022"
   },
   "https://avalon.fun/GAME-48b1f691-cca7-4e24-bed9-40e193a25a91": {
     "names": [
-      "koenigzerg",
-      "ватсон",
+      "Koenigzerg",
+      "Ватсон",
       "Нокс",
       "Кириса",
       "D_o_b_r_o",
-      "пастернак",
-      "anT127 iq",
-      "fnta"
+      "Пастернак",
+      "AnT127 iq",
+      "Fnta"
     ],
     "roles": [
       "morgana",
@@ -2081,6 +2261,8 @@ module.exports = {
     "blueWin": false,
     "merlinShot": true,
     "byMissions": false,
+    "shotName": "Кириса",
+    "shotRole": "merlin",
     "date": "01.01.2022"
   }
 }
